@@ -9,6 +9,8 @@
 #4 Zobrazte násobky čísla 7 po 70 pomocí cyklu.
 
 #5 Vytiskněte vzor pomocí cyklu:
+```
 1
 11
 111
+```
