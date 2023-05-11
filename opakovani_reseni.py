@@ -1,5 +1,12 @@
 #1
-#TODO
+for cislo in range(2, 100):
+    jePrvocislo = True
+    for i in range(2, int(cislo/2)+1):
+        if cislo % i == 0:
+            jePrvocislo = False
+            break
+    if jePrvocislo:
+        print(cislo)
 
 #2
 cislo = 1
