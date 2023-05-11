@@ -1,4 +1,9 @@
-1) Vypište všechny prvoèísla menší ne 100 pomocí cyklu "for" a podmínky "if": 2b
-2) Vypište sudá èísla menší ne 20 pomocí cyklu "while" a podmínky "if":	4b
-3) Spoèítejte aritmetickı prùmìr èísel v seznamu pomocí cyklu "for" a vestavìné funkce "sum" a "len"	5b
-4) Vypište znaky øetìzce "Hello World" pomocí cyklu "for"	3b
+# OpakovÃ¡nÃ­ na tÃ©ma Cyklus:
+
+#1 VypiÅ¡te vÅ¡echny prvoÄÃ­sla menÅ¡Ã­ neÅ¾ 100 pomocÃ­ cyklu "for" a podmÃ­nky "if" (2b)
+
+#2 VypiÅ¡te sudÃ¡ ÄÃ­sla menÅ¡Ã­ neÅ¾ 20 pomocÃ­ cyklu "while" a podmÃ­nky "if" (4b)
+
+#3 SpoÄÃ­tejte aritmetickÃ½ prÅ¯mÄ›r ÄÃ­sel ve vÃ¡mi novÄ› definovanÃ©m seznamu (alespoÅˆ 10 libovolnÃ½ch ÄÃ­sel) pomocÃ­ cyklu "for" a vestavÄ›nÃ© funkce "sum" a "len" (5b)
+
+#4 VypiÅ¡te znaky Å™etÄ›zce "Hello World" pomocÃ­ cyklu "for" (3b)

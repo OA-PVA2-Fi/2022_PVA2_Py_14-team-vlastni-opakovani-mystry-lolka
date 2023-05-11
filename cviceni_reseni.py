@@ -1,0 +1,1 @@
+#1for i in range(10):    print("Hello world!")#2cislo = int(input("Zadejte cislo: "))for i in range(cislo + 1):    vysledek = cislo * i    print(f"{cislo} * {i} = {vysledek}")#3if cislo % 3 == 0:    print("Cislo je delitelne 3.")else:    print("Cislo neni delitelne 3.")#4for i in range(1, 11):    print(7 * i)#5for i in range(1, 4):    print("1" * i)

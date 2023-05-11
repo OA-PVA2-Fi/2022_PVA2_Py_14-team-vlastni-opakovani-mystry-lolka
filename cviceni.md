@@ -1,14 +1,16 @@
-# Cvièení na téma Cyklus:
+# CviÄenÃ­ na tÃ©ma Cyklus:
 
-#1 Pomocí cyklu napište program kterı napíše 10x "Hello world!"
+#1 PomocÃ­ cyklu napiÅ¡te program, kterÃ½ napÃ­Å¡e 10x "Hello world!"
 
-#2 Od uivatele si vyádejte èíslo a toto èíslo vynásobte všemi èísly od 0 a do zadaného èísla.
+#2 Od uÅ¾ivatele si vyÅ¾Ã¡dejte ÄÃ­slo a toto ÄÃ­slo vynÃ¡sobte vÅ¡emi ÄÃ­sly od 0 aÅ¾ do zadanÃ©ho ÄÃ­sla.
 
-#3 Zjistìte zdali je zadané èíslo z pøedchozího cvièení dìlitelné 3
+#3 ZjistÄ›te jestli je zadanÃ© ÄÃ­slo z pÅ™edchozÃ­ho cviÄenÃ­ dÄ›litelnÃ© 3
 
-#4 Zobrazte násobky èísla 7 po 70 pomocí cyklu.
+#4 Zobrazte nÃ¡sobky ÄÃ­sla 7 po 70 pomocÃ­ cyklu.
 
-#5 Vytisknìte vzor níe:
+#5 VytisknÄ›te vzor pomocÃ­ cyklu:
+```
 1
 11
 111
+```
